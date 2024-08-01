@@ -1,6 +1,9 @@
 # CTK_Lights
 Breakable/Switchable Lights with Fuse Box (Insurgency Sandstorm)
 
+Extract CTK_LightSystem into X:\SandstormEditor\Insurgency\Content
+Once Inside editor Move CTK_LightSystem into your Maps Content Folder
+
 
 BP__CTK_Fuse_box
 Fuse box is breakable, parallel to original fuse boxes in game.
